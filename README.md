@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sindhu Kumari </h1>
 <h2 align="center">Software Engineer 🐰</h2>
-<h3 align="center">Seeking full-time W-2 Employment Positions</h3>
 <br/>
 
 - 🏫 I'm currently pursuing **a Master's in Computer Science at Maharishi International University via distance education.**
